@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Centro Hogar Sanchez: Equipamiento total para tu hogar</title>
+<meta name="description" content="Tienda online de Centro Hogar Sanchez, tu centro de muebles, sofás y electrodomésticos. Equipamiento total del hogar al mejor precio. Entrega a domicilio." />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<link rel="icon" href="https://www.centrohogarsanchez.es/media/favicon/default/favicon-3.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.centrohogarsanchez.es/media/favicon/default/favicon-3.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="https://www.centrohogarsanchez.es/skin/frontend/base/default/css/amshopby.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.centrohogarsanchez.es/skin/frontend/base/default/js/fancybox/jquery.fancybox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.centrohogarsanchez.es/skin/frontend/chs/default/js/bootstrap/css/bootstrap.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.centrohogarsanchez.es/skin/frontend/chs/default/js/slick/slick.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.centrohogarsanchez.es/skin/frontend/chs/default/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.centrohogarsanchez.es/skin/frontend/base/default/js/amasty/amconf/css/tooltipster.css" media="all" />
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/cmsmart/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/cmsmart/jquery/jquery-migrate.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/js/cmsmart/jquery/jquery-noconflict.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/skin/frontend/chs/default/js/jquery.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/skin/frontend/chs/default/js/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/skin/frontend/chs/default/js/slick/slick.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/skin/frontend/chs/default/js/main.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/skin/frontend/base/default/js/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="https://www.centrohogarsanchez.es/skin/frontend/base/default/js/amasty/plugins/jquery.tooltipster.min.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.centrohogarsanchez.es';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["IE","PA","HK","MO"];
+//]]>
+</script>
+            <!-- BEGIN GOOGLE UNIVERSAL ANALYTICS CODE -->
+        <script type="text/javascript">
+        //<![CDATA[
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            
+ga('create', 'UA-2598782-3', 'auto');
+
+ga('send', 'pageview');
+            
+        //]]>
+        </script>
+        <!-- END GOOGLE UNIVERSAL ANALYTICS CODE -->
+    <script>
+var doofinder_script ='//cdn.doofinder.com/media/js/doofinder-classic.6.latest.min.js';
+(function(d,t){var f=d.createElement(t),s=d.getElementsByTagName(t)[0];f.async=1;
+f.src=('https:'==location.protocol?'https:':'http:')+doofinder_script;
+f.setAttribute('charset','utf-8');
+s.parentNode.insertBefore(f,s)}(document,'script'));
+
+var dfClassicLayers = [{
+  "hashid": "d55eadc39348171ec7ece4133494f3f0",
+  "zone": "eu1",
+  "display": {
+    "lang": "es",
+    "align": "center"
+  },
+  "queryInput": "#search",
+  "mobile":{
+     "toggleInput": "#campo-buscador"
+  },
+  callbacks: {
+    // Configure the patch when the layer instance is loaded
+    loaded: function(instance) {
+      // If no jQuery we use Doofinder's dfdom
+      var $ = (typeof jQuery === 'undefined') ? doofinder.core.util.dfdom : jQuery;
+      // When the layer is displayed, close the drawer
+      instance.layer.layer.on('df:show', function(e){
+         $('div.modal-buscar').removeClass('in').hide();
+         $('div.modal-backdrop').remove();
+      });
+    }
+  }
+
+
+}];
+</script><script type="text/javascript">
+                        if (typeof Varien.searchForm !== 'undefined') {
+                          Varien.searchForm.prototype.initAutocomplete = function() {
+                            $('search_autocomplete').hide();
+                          };
+                        }
+                        </script><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"HTML tags are not allowed":"No est\u00e1n permitidas las etiquetas HTML","Please select an option.":"Seleccione una opci\u00f3n.","This is a required field.":"Este es un campo obligatorio","Please enter a valid number in this field.":"Ingrese un n\u00famero v\u00e1lido en este campo.","The value is not within the specified range.":"El valor no est\u00e1 dentro del rango permitido.","Please use numbers only in this field. Please avoid spaces or other characters such as dots or commas.":"En este campo s\u00f3lo se pueden escribir n\u00fameros. Evite los espacios en blanco u otros caracteres, como los puntos o las comas, por ejemplo.","Please use letters only (a-z or A-Z) in this field.":"Por favor, use s\u00f3lo letras (a-z o A-Z) en este campo.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Utilice s\u00f3lo letras (a-z), n\u00fameros (0-9) o guiones bajos (_) en este campo. El primer caracter debe ser una letra.","Please use only letters (a-z or A-Z) or numbers (0-9) only in this field. No spaces or other characters are allowed.":"Por favor, utilice solo letras (a-z o A-Z) o n\u00fameros (0-9) solo en este campo. No est\u00e1n permitidos los espacios u otros caracteres.","Please use only letters (a-z or A-Z) or numbers (0-9) or spaces and # only in this field.":"Por favor, utilice solo letras (a-z o A-Z) o n\u00fameros (0-9) o espacios y # solo en este campo.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Ingrese un n\u00famero de tel\u00e9fono v\u00e1lido. Por ejemplo: (123) 456-7890 o 123-456-7890.","Please enter a valid fax number. For example (123) 456-7890 or 123-456-7890.":"Por favor, introduzca un n\u00famero de fax v\u00e1lido. Por ejemplo (123) 456-7890 o 123-456-7890.","Please enter a valid date.":"Ingrese una fecha v\u00e1lida.","The From Date value should be less than or equal to the To Date value.":"El valor Desde la fecha debe ser inferior o igual al valor Hasta la fecha.","Please enter a valid email address. For example johndoe@domain.com.":"Ingrese una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida. Por ejemplo: juanperez@dominio.com.","Please use only visible characters and spaces.":"Por favor, utilice solo caracteres visibles y espacios.","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Introduzca 6 o m\u00e1s caracteres. Se ignorar\u00e1n los espacios antes o despu\u00e9s.","Please enter 7 or more characters. Password should contain both numeric and alphabetic characters.":"Por favor, introduzca 7 o m\u00e1s caracteres. La contrase\u00f1a tiene que contener tanto caracteres num\u00e9ricos como alfab\u00e9ticos.","Please make sure your passwords match.":"Aseg\u00farese de que sus contrase\u00f1as coincidan.","Please enter a valid URL. Protocol is required (http:\/\/, https:\/\/ or ftp:\/\/)":"Por favor, introduzca una URL v\u00e1lida. Es necesario el protocolo (http:\/\/, https:\/\/ or ftp:\/\/)","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Por favor, introduzca una URL v\u00e1lida. Por ejemplo, http:\/\/www.example.com o www.example.com","Please enter a valid URL Key. For example \"example-page\", \"example-page.html\" or \"anotherlevel\/example-page\".":"Por favor, introduzca una Clave de URL v\u00e1lida. Por ejemplo  \"pagina-ejemplo\", \"pagina-ejemplo.html\" o \"otronivel\/pagina-ejemplo\"","Please enter a valid XML-identifier. For example something_1, block5, id-4.":"Por favor, introduzca un identificador-XML v\u00e1lido. Por ejemplo, algo_1, bloque5, id-4.","Please enter a valid social security number. For example 123-45-6789.":"Ingrese un n\u00famero de seguro social v\u00e1lido. Por ejemplo: 123-45-6789.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Ingrese un c\u00f3digo postal v\u00e1lido. Por ejemplo: 90602 o 90602-1234.","Please enter a valid zip code.":"Ingrese un c\u00f3digo postal v\u00e1lido.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Utilice este formato de fecha: dd\/mm\/aaaa. Por ejemplo, 17\/03\/2006 para el 17 de marzo de 2006.","Please enter a valid $ amount. For example $100.00.":"Ingrese un monto v\u00e1lido en $. Por ejemplo: $100.00.","Please select one of the above options.":"Por favor, selecciona una de las opciones anteriores.","Please select one of the options.":"Seleccione una de las opciones.","Please select State\/Province.":"Por favor, selecciona Estado\/Provincia.","Please enter a number greater than 0 in this field.":"Ingrese un n\u00famero mayor que 0 en este campo.","Please enter a number 0 or greater in this field.":"Por favor, introduzca un n\u00famero 0 o superior en este campo.","Please enter a valid credit card number.":"Ingrese un n\u00famero de tarjeta de cr\u00e9dito v\u00e1lido.","Credit card number does not match credit card type.":"El n\u00famero de tarjeta de cr\u00e9dito no se ajusta al tipo de tarjeta de cr\u00e9dito.","Card type does not match credit card number.":"El tipo de tarjeta no se ajusta al n\u00famero de tarjeta de cr\u00e9dito.","Incorrect credit card expiration date.":"Fecha de caducidad de la tarjeta de cr\u00e9dito incorrecta","Please enter a valid credit card verification number.":"Introduzca un n\u00famero correcto de verificaci\u00f3n de tarjeta de cr\u00e9dito.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Por favor, utilice solamente letras (a-z o A-Z), n\u00fameros (0-9) o guion bajo (_) en este campo, el primer car\u00e1cter debe ser una letra.","Please input a valid CSS-length. For example 100px or 77pt or 20em or .5ex or 50%.":"Por favor, introduzca una longitud v\u00e1lida de CSS. Por ejemplo, 100px o 77pt o 20em o .5ex o 50%","Text length does not satisfy specified text range.":"La longitud del texto no satisface el rango de texto se\u00f1alado","Please enter a number lower than 100.":"Por favor, introduzca un n\u00famero menor que 100.","Please select a file":"Por favor seleccione un archivo","Please enter issue number or start date for switch\/solo card type.":"Por favor, introduzca un n\u00famero de emisi\u00f3n o fecha de inicio para el tipo de tarjeta switch\/solo.","Please wait, loading...":"Espera, por favor. Cargando....","This date is a required value.":"La fecha es un valor obligatorio.","Please enter a valid day (1-%d).":"Por favor, introduzca un d\u00eda v\u00e1lido (1-%d).","Please enter a valid month (1-12).":"Por favor, introduzca un mes v\u00e1lido (1-12).","Please enter a valid year (1900-%d).":"Por favor, introduzca un a\u00f1o v\u00e1lido (1900-%d).","Please enter a valid full date":"Por favor, introduzca una fecha v\u00e1lida completa","Please enter a valid date between %s and %s":"Por favor, introduzca una fecha v\u00e1lida entre %s y %s","Please enter a valid date equal to or greater than %s":"Por favor, introduzca una fecha v\u00e1lida igual o superior a %s","Please enter a valid date less than or equal to %s":"Por favor, introduzca una fecha v\u00e1lida menor o igual a %s","Complete":"Completo","Add Products":"A\u00f1adir productos","Please choose to register or to checkout as a guest":"Por favor, seleccione la opci\u00f3n de registrarse o la de tramitar el pedido como invitado","Your order cannot be completed at this time as there is no shipping methods available for it. Please make necessary changes in your shipping address.":"Su pedido no puede completarse en este momento ya que no hay m\u00e9todos de env\u00edo disponibles. Realice los cambios necesarios en su direcci\u00f3n de env\u00edo.","Please specify shipping method.":"Por favor, especifique el modo de env\u00edo.","Your order cannot be completed at this time as there is no payment methods available for it.":"Su pedido no se ha podido completar porque no hay ning\u00fan m\u00e9todo de pago disponible.","Please specify payment method.":"Especifique el m\u00e9todo de pago.","Add to Cart":"A\u00f1adir al Carrito","In Stock":"En stock","Out of Stock":"Agotado"});
+        //]]></script></head>
+<body class=" cms-index-index cms-home cms-home">
+		    <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>Puede que JavaScript esté deshabilitado en tu navegador.</strong><br />
+                    Tiene que activar el JavaScript del navegador para utilizar las funciones de este sitio web.                </p>
+            </div>
+        </div>
+    </noscript>
+	<header>
+	<div id="header">
+		<div class="container">
+			<div class="row">
+				<div class="visible-xs visible-sm hidden-md hidden-lg col-xs-4">
+					<div class="responsivenav-bottom"><i class="icon-menu" aria-hidden="true"></i></div>
+					<div class="responsive-search"><i class="icon-lupa" data-toggle="modal" data-target=".modal-buscar"></i></div>
+				</div>
+				<div class="col-xs-4 col-sm-4 col-md-3">
+					<div class="logo">
+												<a href="https://www.centrohogarsanchez.es/" title="Centro Hogar Sánchez">
+							<img src="https://www.centrohogarsanchez.es/skin/frontend/chs/default/images/logo.svg" alt="Centro Hogar Sánchez" class="img-responsive" />
+						</a>
+											</div>
+				</div>
+				<div class="col-xs-4 col-sm-4 col-md-9 text-right">
+					
+					<div class="top-header">
+						<div class="contacta">
+<!-- 							<a href="mailto:info@centrohogarsanchez.es"><i class="icon-email-cerrado"></i></a> -->
+							<a href="/contacto"><i class="icon-email-cerrado"></i></a>
+<!-- 							<a class="whats" data-toggle="tooltip" data-placement="bottom" title="Si lo deseas te atendemos por whastapp en el 655 11 22 33" href="#"><i class="icon-whatsapp-logo"></i></a> -->
+							<span>Llámanos al 958 465 024</span>
+														<a class="inicio-ses-not" href="https://www.centrohogarsanchez.es/customer/account/login/referer/aHR0cHM6Ly93d3cuY2VudHJvaG9nYXJzYW5jaGV6LmVzLz9pbWFnZU5hbWU9R0FNQU1PQkVMJTJGQk9SSVMlMkZib3Jpcy1zb2ZhLmpwZyZwYWRkaW5nPTA,/"><i class="icon-user"></i> <span>Usar mi cuenta</span></a>
+<!-- 							<a href="https://www.centrohogarsanchez.es/customer/account/login/referer/aHR0cHM6Ly93d3cuY2VudHJvaG9nYXJzYW5jaGV6LmVzLz9pbWFnZU5hbWU9R0FNQU1PQkVMJTJGQk9SSVMlMkZib3Jpcy1zb2ZhLmpwZyZwYWRkaW5nPTA,/">Registrarse</a> -->
+													</div>
+					</div>
+					
+					<div class="estado-carrito">
+						<a class="catalogo-mobile visible-xs visible-sm" href="/catalogo-oferta"><i class="icon-catalogo"></i></a>
+<!-- 						<span class="whats-mobile"><i class="icon-whatsapp-logo"></i></span> -->
+						<a class="inicio-ses-mobile" href="https://www.centrohogarsanchez.es/customer/account/login/referer/aHR0cHM6Ly93d3cuY2VudHJvaG9nYXJzYW5jaGV6LmVzLz9pbWFnZU5hbWU9R0FNQU1PQkVMJTJGQk9SSVMlMkZib3Jpcy1zb2ZhLmpwZyZwYWRkaW5nPTA,/"><i class="icon-user"></i> <span>Usar mi cuenta</span></a>
+						
+						<span class="catalogo hidden-xs hidden-sm"><i class="icon-catalogo"></i> <a href="/catalogo-oferta"> Ver <strong>Catálogo ofertas</strong></strong></a></span>
+						
+						<span class="estado hidden-xs hidden-sm"><i class="icon-international-delivery-business-symbol-of-world-grid-with-an-arrow-around"></i> <a href="/sales/order/history"> Estado de <strong>mi pedido</strong></strong></a></span>
+						<span class="tiendas-link hidden-xs hidden-sm"><i class="glyphicon glyphicon-home"></i> <a href="https://www.centrohogarsanchez.es/tiendas/">Tiendas</a></span>
+						<span class="micarrito" id="micarrito">
+							<i class="icon-carrito"></i> <span>Mi carrito</span>
+							<span class="count_products">0</span>						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav class="nav-menu">
+			<div class="container">
+								<ul>
+															<li class="dropdown-slide ventaflash" data-categoryname="category-top-ventas">
+						<a class="cat" href="https://www.centrohogarsanchez.es/top-ventas.html">
+							<span>Top Ventas							</span>						</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/top-ventas/top-ventas-sofas.html">Top Ventas Sofás</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/top-ventas/top-ventas-muebles.html">Top Ventas Muebles</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/top-ventas/top-ventas-electrodomesticos.html">Top Ventas Electrodomésticos</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-sofas-y-chaise-longue">
+						<a class="cat" href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue.html">
+							Sofás													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue/sofas.html">Sofás</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue/sofas-cama.html">Sofás cama</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue/chaise-longue.html">Chaise Longue</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue/sofas-rinconeras.html">Sofas Rinconeras</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue/sofas-pedro-ortiz.html">Sofas Pedro Ortiz</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sofas-y-chaise-longue/sofas-de-alta-calidad.html">Sofás de alta calidad</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-sillas-sillones-y-puffs">
+						<a class="cat" href="https://www.centrohogarsanchez.es/sillas-sillones-y-puffs.html">
+							Sillas y sillones													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sillas-sillones-y-puffs/puffs.html">Puffs</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sillas-sillones-y-puffs/sillones.html">Sillones</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sillas-sillones-y-puffs/sillas-y-sillones-de-oficina.html">Sillas y sillones de oficina</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/sillas-sillones-y-puffs/cocina-y-comedor.html">Cocina y comedor </a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-muebles">
+						<a class="cat" href="https://www.centrohogarsanchez.es/muebles.html">
+							Muebles													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-de-dormitorio.html">Muebles de dormitorio </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-de-salon-y-comedor.html">Muebles de salón y comedor </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/recibidores.html">Recibidores</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/estanterias.html">Estanterias</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-de-cocina.html">Muebles de cocina</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-de-ba-o.html">Muebles de baño</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-de-oficina.html">Muebles de oficina </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-kit.html">Muebles kit </a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/mueble-auxiliar.html">Mueble Auxiliar</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/zapateros.html">Zapateros</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/muebles/muebles-estilo-nordico.html">Muebles estilo nordico</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-menaje">
+						<a class="cat" href="https://www.centrohogarsanchez.es/menaje.html">
+							Menaje													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/bandejas.html">Bandejas </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/juegos-de-cafe.html">Juegos de café</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/baterias-de-cocina.html">Baterías de Cocina</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/vajillas.html">Vajillas</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/sartenes.html">Sartenes</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/cuberterias.html">Cuberterías</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/menaje/utensilios-de-cocina.html">Utensilios de cocina </a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-decoracion">
+						<a class="cat" href="https://www.centrohogarsanchez.es/decoracion.html">
+							Decoración 													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/lamparas.html">Lámparas</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/espejos-y-cuadros.html">Espejos y cuadros</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/relojes.html">Relojes</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/ordenacion.html">Ordenación </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/percheros.html">Percheros </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/cojines.html">Cojines</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/jarrones-y-esculturas.html">Jarrones y esculturas</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/decoracion/paragueros-y-revisteros.html">Paragüeros y revisteros</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-descanso">
+						<a class="cat" href="https://www.centrohogarsanchez.es/descanso.html">
+							Descanso 													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/descanso/colchones.html">Colchones</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/descanso/bases-tapizadas.html">Bases tapizadas</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/descanso/almohadas.html">Almohadas</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/descanso/ropa-de-cama.html">Ropa de cama </a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/descanso/somieres.html">Somieres</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/descanso/canapes-abatibles.html">Canapés abatibles</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide " data-categoryname="category-electrodomesticos">
+						<a class="cat" href="https://www.centrohogarsanchez.es/electrodomesticos.html">
+							Electrodomésticos													</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/imagen-y-sonido.html">Imagen y Sonido</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/accesorios-tv.html">Accesorios TV</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/televisores.html">Televisores</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/peque-os-electrodomesticos.html">Pequeños Electrodomésticos</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/lavado-y-secado.html">Lavado y secado </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/hornos.html">Hornos</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/placas.html">Placas </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/lavavajillas.html">Lavavajillas</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/frio.html">Frío </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/calentadores-y-termos.html">Calentadores y termos </a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/calefaccion.html">Calefacción</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/climatizacion.html">Climatización</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/telefonia.html">Telefonía</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/higiene-personal.html">Higiene Personal</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/campanas-y-extractores.html">Campanas y extractores</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/fregaderos.html">Fregaderos</a></li>
+									
+									
+								
+									
+																		<li><a href="https://www.centrohogarsanchez.es/electrodomesticos/movilidad-urbana.html">Movilidad urbana</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            										<li class="dropdown-slide ventaflash" data-categoryname="category-outlet">
+						<a class="cat" href="https://www.centrohogarsanchez.es/outlet.html">
+							<span>Outlet							</span>						</a>
+						<i class="icon-arrow-down menu-desplegable"></i>
+																		<ul class="dropdown-content">
+							<div class="row">
+
+								
+								
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/outlet/outlet-electrodomesticos.html">Outlet Electrodomésticos</a></li>
+									
+																											</div>
+									
+								
+																		<div class="col-md-3">
+									
+																		<li><a href="https://www.centrohogarsanchez.es/outlet/outlet-muebles.html">Outlet Muebles</a></li>
+									
+																											</div>
+									
+								
+								<div class="col-md-3">
+																	</div>
+
+							</div>
+		                </ul>
+		                
+		            </li>
+		            	        	</ul>				<form id="search_mini_form" action="https://www.centrohogarsanchez.es/catalogsearch/result/" method="get">
+	<div class="input-group">
+		<input id="search" type="text" class="form-control" name="q" value="" maxlength="128" />
+		<div class="input-group-addon">
+			<button type="submit" title="Búsqueda" class="btn btn-busqueda"><i class="icon-lupa"></i></button>
+		</div>
+	</div>
+</form>
+			</div>
+		</nav>
+	</div>
+</header>	<div class="contenido">
+		
+				
+		
+
+	<div class="sliderHome">
+		
+	
+	
+				
+				
+		<div class="slider-home" style="background-image: url('https://www.centrohogarsanchez.es/media/makecarrousel/image/o/u/outlet.jpg')">
+			<div class="container">
+				<div class="slide-content">
+					<div class="col-50 hidden-xs hidden-sm visible-md visible-lg">
+												<img class="img-responsive" src="https://www.centrohogarsanchez.es/media/makecarrousel/image/b/a/bannerweb-tv.jpg" />
+											</div>
+					<div class="col-50">
+						<div class="claim-slider">
+														<p class="h1">¡¡SAMSUNG SMART TV A PRECIO DE COSTO!!</p>
+																					<div class="claim-add">
+								<p>PANTALLA LED SAMSUNG UE43MU6125</p>
+							</div>
+																					<div class="descuento">
+								<p>¡SOLO 479€!</p>
+							</div>
+																					<a href="https://www.centrohogarsanchez.es/pantalla-led-43-uhd-samsung-ue43mu6125.html" class="boton-add">VER OFERTA</a>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+				
+	
+		
+	</div>
+
+				<div class="container">
+												<div class="cms-page"><div class="hero">
+<h1 class="text-center">TIENDA DE MUEBLES Y ELECTRODOMÉSTICOS DE HOGAR</h1>
+<p>Centro Hogar S&aacute;nchez te ofrece un amplio cat&aacute;logo de muebles de calidad a precios asequibles. Conoce nuestra tienda online de muebles y electrodom&eacute;sticos para el hogar. Ponemos a tu disposici&oacute;n la mayor variedad de sof&aacute;s, sillas, sillones, muebles de oficina, para el sal&oacute;n, auxiliares, adem&aacute;s de muebles de exterior o electrodom&eacute;sticos. Muebles para el hogar en todo tipo de dise&ntilde;os para que encuentres aquel que m&aacute;s se adapte a tu estilo y necesidades. Encuentra el equipamiento total para el hogar en Centro hogar S&aacute;nchez, tu tienda de muebles online de confianza.</p>
+</div></div>			
+
+
+							<div style="margin-bottom:50px;">
+	<p class="h1 text-center puzzle-title">NUESTRAS MEJORES SECCIONES</p>
+    
+	
+            <div class="row">
+                                                                	
+	
+                                        	<div class="col-xs-12 col-sm-6">
+                        		                                                                                      	<div class="row">
+                              	                                  	                                      				<div class="col-xs-12">
+                              			                              				<a href="muebles/muebles-estilo-nordico.html" class="border-puzzle" title="OFERTA DESCANSO">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/n/_/n_rdico.jpg" class="img-responsive hidden-xs" alt="OFERTA DESCANSO" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/-/1/-15_descanso.jpg" class="img-responsive visible-xs" alt="OFERTA DESCANSO" />
+                              				</a>
+                              			</div>
+                              	                                  	</div>
+                                                	</div>
+                                        	<div class="col-xs-12 col-sm-6">
+                        		                                                                                      	<div class="row">
+                              	                                  	                                      				<div class="col-xs-12">
+                              			                              				<a href="electrodomesticos/movilidad-urbana.html" class="border-puzzle" title="MOV URBANA">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/m/o/movilidad_urbana.jpg" class="img-responsive hidden-xs" alt="MOV URBANA" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/m/o/movilidad_urbana-720x300.jpg" class="img-responsive visible-xs" alt="MOV URBANA" />
+                              				</a>
+                              			</div>
+                              	                                  	                                      				<div class="col-xs-12">
+                              			                              				<a href="sillas-sillones-y-puffs/puffs/puff-pera.html" class="border-puzzle" title="PUFF PERA">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/p/u/puff-575x280.jpg" class="img-responsive hidden-xs" alt="PUFF PERA" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/p/u/puff-720x300.jpg" class="img-responsive visible-xs" alt="PUFF PERA" />
+                              				</a>
+                              			</div>
+                              	                                  	</div>
+                                                	</div>
+                                        
+	
+                        </div>
+            <div class="row">
+                                                                	
+	
+                                        	<div class="col-xs-12 col-sm-6">
+                        		                                                                                      	<div class="row">
+                              	                                  	                                      	        	<div class="col-xs-12 col-sm-6">
+                              		                                  				<a href="menaje/vajillas.html" class="border-puzzle" title="VAJILLAS">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/v/a/vajillas.jpg" class="img-responsive hidden-xs" alt="VAJILLAS" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/v/a/vajillas_1.jpg" class="img-responsive visible-xs" alt="VAJILLAS" />
+                              				</a>
+                              			</div>
+                              	                                  	                                      	        	<div class="col-xs-12 col-sm-6">
+                              		                                  				<a href="electrodomesticos/lavado-y-secado/secadoras.html" class="border-puzzle" title="SECADORAS">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/s/e/secadoras.jpg" class="img-responsive hidden-xs" alt="SECADORAS" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/s/e/secadoras_1.jpg" class="img-responsive visible-xs" alt="SECADORAS" />
+                              				</a>
+                              			</div>
+                              	                                  	                                      				<div class="col-xs-12">
+                              			                              				<a href="terraza-y-jardin.html" class="border-puzzle" title="TERRAZA">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/t/e/terraza_1.jpg" class="img-responsive hidden-xs" alt="TERRAZA" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/t/e/terraza_2.jpg" class="img-responsive visible-xs" alt="TERRAZA" />
+                              				</a>
+                              			</div>
+                              	                                  	</div>
+                                                	</div>
+                                        	<div class="col-xs-12 col-sm-6">
+                        		                                                                                      	<div class="row">
+                              	                                  	                                      				<div class="col-xs-12">
+                              			                              				<a href="/outlet.html" class="border-puzzle" title="OUTLET">
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/b/a/bannerchs_800x800-outlet.jpg" class="img-responsive hidden-xs" alt="OUTLET" />
+                              					<img src="https://www.centrohogarsanchez.es/media/makebpimage/image/b/a/bannerchs_720x300-outlet.jpg" class="img-responsive visible-xs" alt="OUTLET" />
+                              				</a>
+                              			</div>
+                              	                                  	</div>
+                                                	</div>
+                                        
+	
+                        </div>
+        
+	
+    </div>
+						<p class="h1 text-center">EQUIPAMIENTO TOTAL DEL HOGAR</p>
+<div class="pmargin">
+	<p>¿Buscas amueblar tu casa a un precio accesible sin renunciar al diseño? En la tienda online de muebles para el hogar de Centro Hogar Sánchez encontrarás una amplia gama de <strong>muebles para el hogar, la oficina o el jardín </strong> que encajaran a la perfección con el espacio que deseas amueblar. Además en el catálogo de nuestra tienda para el hogar podrás encontrar toda clase de <strong> electrodomésticos para la cocina, de cuidado personal, de imagen y sonido o climatización. </strong></p>
+
+<p>Descubre en Centro hogar Sánchez sofás cómodos y de calidad de dos y tres plazas así como la mayor <strong>oferta online de chaise longues</strong>. Muebles confortables para que disfrutes del descanso y del ocio sin salir de casa. Porque desde sabemos que el sofá es uno de los muebles más importantes de tu hogar, te ofrecemos <strong>sofás cama</strong> o sofás rinconeras para que aproveches al máximo el potencial de tu salón.</p>
+
+<p>Además, trabajamos con una amplia selección de<strong> muebles para el salón comedor</strong> o para la cocina como mesas, sillas y taburetes tanto de polipiel como en resina, con estructura en aluminio y bases en diferentes acabados y colores para combinarlos con tu decoración. Le damos un toque de diseño y originalidad  a los muebles de tu hogar. Encuentra en nuestra <strong>tienda online de muebles para el hogar</strong> muebles auxiliares y muebles en kit prácticos para aprovechar los espacios de forma más armoniosa con nuestras cómodas o muebles para la entrada.</p>
+
+<p>Desde la tienda online de Centro Hogar Sánchez equipamos al completo tu hogar, ofreciendo también <strong>muebles de exterior</strong> para que consigas el jardín perfecto, cómodo y acogedor, sin necesidad de tener un gran presupuesto. Consulta nuestro catálogo online de tumbonas, parasoles, balancines o mesas de jardín.</p></div>
+		</div>
+	</div>
+				<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-md-2 col-md-offset-1 listado">
+					<div class="content-listado">
+						<h3>Comercio Electr&oacute;nico</h3>
+<ul>
+<li><a href="/proceso-de-compra">Como hacer un pedido</a></li>
+<li><a href="/formas-pago">Formas de pago</a></li>
+<li><a href="/envio-pedidos">Env&iacute;os de pedidos</a></li>
+<li><a href="/anulaciones-garantias">Devoluciones y anulaciones</a></li>
+</ul>					</div>
+				</div>
+				<div class="col-xs-12 col-md-2 listado">
+					<div class="content-listado">
+						<h3>Con&oacute;cenos</h3>
+<ul>
+<li><a href="/quienes-somos">Quienes somos</a></li>
+<li><a href="/tiendas">Tiendas</a></li>
+<li><a href="/catalogo-oferta">Cat&aacute;logo ofertas</a></li>
+</ul>					</div>
+				</div>
+				<div class="col-xs-12 col-md-2 listado">
+					<div class="content-listado">
+						<h3>Mi cuenta</h3>
+<ul>
+<li><a href="/sales/order/history">Seguimiento de pedidos</a></li>
+<li><a href="/customer/account/create">Reg&iacute;strate como usuario</a></li>
+<li><a href="/wishlist">Mis favoritos</a></li>
+</ul>					</div>
+				</div>
+				<div class="col-xs-12 col-md-2 listado">
+					<div class="content-listado">
+						<h3>Enlaces de inter&eacute;s</h3>
+<ul>
+<li><a href="/contacto">Contacto</a></li>
+<li><a href="/empleo">Empleo</a></li>
+<li><a href="/servicios">Proyectos a medida</a></li>
+</ul>					</div>
+				</div>
+				<div class="col-xs-12 col-md-2 listado">
+					<div class="content-listado">
+						<h3>Aspectos legales</h3>
+<ul>
+<li><a href="/politica-de-privacidad">Pol&iacute;tica de privacidad</a></li>
+<li><a href="/aviso-legal">Aviso Legal</a></li>
+<li><a href="/condiciones-de-compra">Condiciones de compra</a></li>
+</ul>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-info">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3 hidden-xs hidden-sm text-center">
+<p>Entregamos con:</p>
+<img class="img-responsive" alt="" src="https://www.centrohogarsanchez.es/media/wysiwyg/Footer/logo-transporte_1.png" /></div>
+<div class="col-xs-6 col-md-3 text-center">
+<p>Aceptamos:</p>
+<img class="img-responsive" alt="" src="https://www.centrohogarsanchez.es/media/wysiwyg/Footer/aceptamos.png" /></div>
+<div class="col-xs-6 col-md-3 text-center">
+<p>Financiamos tus cuentas con:</p>
+<img class="img-responsive" alt="" src="https://www.centrohogarsanchez.es/media/wysiwyg/Footer/financiamos.png" /></div>
+<div class="col-md-3 hidden-xs hidden-sm text-center">
+<p>Tu seguridad es importante</p>
+<img class="img-responsive" alt="" src="https://www.centrohogarsanchez.es/media/wysiwyg/Footer/seguridad-02.png" /></div>			</div>
+		</div>
+	</div>
+	<div class="footer-copy">
+		<div class="container">
+			<p>&copy; 2017 Centro Hogar Sánchez. Todos los derechos reservados</p>
+		</div>
+	</div>
+
+	<div class="modal fade modal-mi-carrito" id="modal-mi-carrito" tabindex="-1" role="dialog" aria-labelledby="modal-mi-carrito">
+		<div class="modal-dialog modal-md">
+			<div class="modal-content">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="glyphicon glyphicon-remove"></i></button>
+				<p class="h1">Resumen de tu cesta</p>
+				<div class="cart-products-container">
+					<!--<i class="fa fa-refresh fa-spin fa-3x fa-fw"></i>
+					<span class="sr-only">Loading...</span>-->
+					Cargando...				</div>
+				<div class="total">
+				</div>
+				<div class="seguir-comprando">	
+					<button type="button" class="btn-seguir" data-dismiss="modal" aria-label="Close">Continuar comprando</button>
+					<a href="https://www.centrohogarsanchez.es/onestepcheckout/" class="btn-confirmar">Finalizar mi compra</a>
+				</div>
+	    	</div>
+		</div>
+	</div>
+	
+	<div class="modal fade modal-buscar" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+		<div class="modal-dialog modal-lg">
+	    	<div class="modal-content">
+		    	<h2>¿Qué buscas?</h2>
+		    			    	<form action="https://www.centrohogarsanchez.es/catalogsearch/result/" method="get">
+					<div class="input-group">
+						<input type="text" class="form-control" id="campo-buscador" placeholder="Ej: Mesas de jardín" name="q" value="" maxlength="128" />
+						<button type="submit" title="Búsqueda" class="btn btn-busqueda">BUSCAR</button>
+					</div>
+				</form>
+	    	</div>
+		</div>
+	</div>
+
+	<script>
+		jQuery(document).ready(function()
+		{
+			jQuery('*').on('hide.bs.tab', function( event ) {
+				isBootstrapEvent = true;
+			});
+
+			jQuery('*').on('hide.bs.dropdown', function( event ) {
+				isBootstrapEvent = true;
+			});
+
+			jQuery('*').on('hide.bs.collapse', function( event ) {
+				isBootstrapEvent = true;
+			});
+
+			jQuery('*').on('hide.bs.modal', function( event ) {
+				isBootstrapEvent = true;
+			});
+
+			jQuery('#modal-mi-carrito').on('hidden.bs.modal', function (e) {
+				jQuery('#modal-mi-carrito .cart-products-container').html( 'Cargando...' );
+				jQuery('#modal-mi-carrito .total').html( '' );
+			});
+
+			jQuery('#modal-mi-carrito').on('.modal-content', function (e) {
+				jQuery('#modal-mi-carrito .cart-products-container').html( 'Cargando...' );
+				jQuery('#modal-mi-carrito .total').html( '' );
+			});
+
+			jQuery('#modal-mi-carrito')
+				.on(
+					'click',
+					'.cart-product-remove',
+					function()
+					{
+						var productId		=	jQuery(this).data('product-id');
+						removeModalCart( productId );
+					}
+				);
+
+			jQuery('#modal-mi-carrito')
+				.on(
+					'click',
+					'.addcant .glyphicon-minus-sign, .addcant .glyphicon-plus-sign',
+					function()
+					{
+						var productId		=	jQuery(this).data('cart-product');
+						var action			=	jQuery(this).data('cart-action');
+						updateQtyModalCart( productId, action );
+					}
+				)
+
+			jQuery('#micarrito')
+				.click(
+					function()
+					{
+						jQuery('#modal-mi-carrito').modal();
+						updateModalCart();
+					}
+				)
+
+		});
+
+		function addModalCart()
+		{
+			var ajaxCartAddUrl		=	'https://www.centrohogarsanchez.es/ajaxjson/cart/add/';
+			var dataSerialize		=	jQuery('#product_addtocart_form').serialize();
+
+			jQuery('#modal-mi-carrito').modal('show');
+
+			jQuery.getJSON(
+						ajaxCartAddUrl,
+						dataSerialize,
+						function( data )
+						{
+							paintModalCart( data )
+						}
+					);
+		}
+
+		function updateModalCart()
+		{
+			var ajaxCartUrl			=	'https://www.centrohogarsanchez.es/ajaxjson/cart/';
+
+			jQuery.getJSON(
+						ajaxCartUrl,
+						'',
+						function( data )
+						{
+							paintModalCart( data )
+						}
+					);
+		}
+
+		function updateQtyModalCart( product, action)
+		{
+			jQuery('#modal-mi-carrito .cart-products-container').html( 'Cargando...' );
+			jQuery('#modal-mi-carrito .total').html( '' );
+
+			var ajaxCartUpdateUrl	=	'https://www.centrohogarsanchez.es/ajaxjson/cart/update/';
+
+			jQuery.getJSON(
+						ajaxCartUpdateUrl,
+						'product=' + product + '&action=' + action,
+						function( data )
+						{
+							paintModalCart( data )
+						}
+					);
+		}
+
+		function removeModalCart( productId )
+		{
+			jQuery('#modal-mi-carrito .cart-products-container').html( 'Cargando...' );
+			jQuery('#modal-mi-carrito .total').html( '' );
+
+			var ajaxCartRemoveUrl	=	'https://www.centrohogarsanchez.es/ajaxjson/cart/remove/';
+
+			jQuery.getJSON(
+						ajaxCartRemoveUrl,
+						'product=' + productId,
+						function( data )
+						{
+							paintModalCart( data )
+						}
+					);
+
+		}
+
+		function paintModalCart( response )
+		{
+			var cartContainer	=	'';
+
+			jQuery.each(
+					response.data.products,
+					function( index, value )
+					{
+						// Servicios adicionales: mensaje.
+                      	var additional_service_message = [];	
+                        if ( Array.isArray(response.data.products[index].additional_services) && response.data.products[index].additional_services.length > 0 ) {
+	                        var additional_adicional_label = '<b>Servicios incluidos:</b> ';
+                          	for (var i=0,  tot=response.data.products[index].additional_services.length; i < tot; i++) {   		
+                        		var additional_service_name = response.data.products[index].additional_services[i].name;
+                        		var additional_service_qty = response.data.products[index].additional_services[i].qty;
+                                var additional_service_price = response.data.products[index].additional_services[i].price;
+                          		additional_service_message.push ( additional_service_name + ' (x' + additional_service_qty + ')' )
+                          	}
+                        }
+						//alert( response.data.products[index].name );
+						cartContainer =	cartContainer + '<div class="producto-add">';	
+							cartContainer =	cartContainer + '<div class="row">';
+								cartContainer =	cartContainer + '<div class="col-xs-5 col-sm-2">';
+									cartContainer =	cartContainer + '<img src="' + response.data.products[index].image + '" class="img-responsive">';
+								cartContainer =	cartContainer + '</div>';
+						
+								cartContainer =	cartContainer + '<div class="col-xs-7 col-sm-10">';
+									cartContainer =	cartContainer + '<div class="col-xs-12">';
+										cartContainer =	cartContainer + '<p>' + response.data.products[index].name + '</p>';
+									cartContainer =	cartContainer + '</div>';
+									cartContainer =	cartContainer + '<div class="col-xs-10 col-sm-3">';
+										cartContainer =	cartContainer + '<div class="addcant">';
+											cartContainer =	cartContainer + '<i class="glyphicon glyphicon-minus-sign" data-key="" data-cart-action="remove" data-cart-product="' + response.data.products[index].id + '"></i>';
+											cartContainer =	cartContainer + '<input type="text" id="cantidad" disabled="" value="' + response.data.products[index].qty + '">';
+											cartContainer =	cartContainer + '<i class="glyphicon glyphicon-plus-sign" data-key="" data-cart-action="add" data-cart-product="' + response.data.products[index].id + '"></i>';
+										cartContainer =	cartContainer + '</div>';
+									cartContainer =	cartContainer + '</div>';
+									cartContainer =	cartContainer + '<div class="col-xs-2 col-sm-2 col-sm-push-7">';
+										cartContainer =	cartContainer + '<i class="glyphicon glyphicon-trash remove cart-product-remove" data-product-id="' + response.data.products[index].id + '"></i>';
+									cartContainer =	cartContainer + '</div>';
+									cartContainer =	cartContainer + '<div class="col-xs-12 col-sm-7 col-sm-pull-2">';
+										cartContainer =	cartContainer + '<div class="price">';
+											if ( response.data.products[index].offers.price >  response.data.products[index].offers.final_price ) {
+												cartContainer =	cartContainer + '<span class="number antes">' + response.data.products[index].offers.price_format + '</span>';
+											}
+											cartContainer =	cartContainer + '<span class="number ahora">' + response.data.products[index].offers.final_price_format + '</span>';
+										cartContainer =	cartContainer + '</div>';
+									cartContainer =	cartContainer + '</div>';
+								cartContainer =	cartContainer + '</div>';
+								if (response.data.products[index].additional_services.length > 0) {
+								// Servicios Adicionales
+								cartContainer =	cartContainer + '<div class="col-xs-12">';
+									cartContainer =	cartContainer + '<div id="adicionales-ajax" class="text-right">';
+	                                cartContainer =	cartContainer + additional_adicional_label + additional_service_message.join(' + ');
+	    							cartContainer =	cartContainer + '</div>';
+	    						cartContainer =	cartContainer + '</div>';
+    							//
+    							}
+							cartContainer =	cartContainer + '</div>'; //cierre row
+						cartContainer =	cartContainer + '</div>';
+					});
+
+			if ( response.data.cart.shipping > 0 )
+			{
+				cartContainer =	cartContainer + '<div class="gastos-envio">';
+				cartContainer =	cartContainer + '<div class="row">';
+				cartContainer =	cartContainer + '<div class="col-xs-6 col-sm-8">';
+				cartContainer =	cartContainer + '<p>Costes de envío</p>';
+				cartContainer =	cartContainer + '</div>';
+				cartContainer =	cartContainer + '<div class="col-xs-6 col-sm-4">';
+				cartContainer =	cartContainer + '<span class="number">' + response.data.cart.shipping_format + '</span>';
+				cartContainer =	cartContainer + '</div>';
+				cartContainer =	cartContainer + '</div>';
+				cartContainer =	cartContainer + '</div>';
+			}
+
+			jQuery('#modal-mi-carrito .cart-products-container').html( cartContainer );
+			jQuery('#modal-mi-carrito .total').html( '<div class="row"><div class="col-xs-6"><p>Total <small>(IVA incl.)</small></p></div><div class="col-xs-6"><span class="number">' + response.data.cart.total_format + '	</span></div></div>' );
+
+			jQuery('#modal-mi-carrito').modal('handleUpdate');
+			
+			var num_products_cart = 0;
+			jQuery.each(response.data.products,function(i,count_prod){
+				num_products_cart += count_prod.qty;
+			});
+			
+			jQuery(".micarrito .count_products").text(num_products_cart);
+		}
+		
+		
+		jQuery(document).ready(function(){
+			var classname = jQuery("body").attr('class').split(' ').last();
+			jQuery('ul').find("[data-categoryname='"+classname+"']").addClass('active');
+		});
+
+	</script>		
+
+<script src="https://cdn.pagamastarde.com/pmt-simulator/3/js/pmt-simulator.min.js"></script>	<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?1vliLQl4AzMTNBEPLmf6fe2vaw5TU6tV";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script--></body>
+</html>
